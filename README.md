@@ -1,6 +1,6 @@
 # Automated Incident Response Playbook with SOAR & EDR Integration
 
-**Objective:**  
+## Objective:
 This project focuses on designing and implementing an automated incident response playbook using LimaCharlie for advanced detection and response. The system integrates seamlessly with Slack, email, and Tines to deliver powerful Security Orchestration, Automation, and Response (SOAR) capabilities. The playbook incorporates user-driven decision workflows, enabling rapid isolation of compromised endpoints based on real-time security event analysis.
 
 ## 🏗️ Step 1: Architecture & Workflow  
